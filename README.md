@@ -1,3 +1,4 @@
+
 # LAB - 28
 
 ## internal-state-practive
@@ -22,5 +23,3 @@ The footer class extends React component and it will insert a footer into the DO
 * `npm install`
 * `npm start`
   
-
-
